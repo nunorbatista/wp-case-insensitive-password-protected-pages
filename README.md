@@ -20,7 +20,7 @@ After you install this plugin you need to have always lowercase passwords setup 
 
 1. Create a folder inside the Plugins called "case-insensitive-pages";
 2. Upload the file "wp-case-insensitive-password-pages.php";
-3. Activate the Plugin inside Wordpress
+3. Activate the Plugin inside Wordpress.
 
 You can reach us by filling the form at our website: http://ntknetworks.com/
 
